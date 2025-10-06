@@ -1,7 +1,7 @@
 *.pdf
-*.png
-*.jpg
-*.jpeg
+# *.png
+# *.jpg
+# *.jpeg
 
 # LaTeX auxiliary files
 *.aux
