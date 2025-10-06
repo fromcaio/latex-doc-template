@@ -153,8 +153,8 @@
   \clearpage
   \thispagestyle{empty}%
   \newgeometry{left=0pt, right=0pt, top=0pt, bottom=0pt}%
-  \setlength{\parindent}{0pt}%
-  \setlength{\parskip}{0pt}%
+  % \setlength{\parindent}{0pt}%
+  % \setlength{\parskip}{0pt}%
   
   \noindent%
   \begin{minipage}[t][\paperheight]{\paperwidth}
