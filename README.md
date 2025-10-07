@@ -21,6 +21,7 @@ This project provides a flexible and modern LaTeX template designed for creating
 
 The project is organized into logical directories to keep the content manageable:
 
+```bash
 .
 ├── Makefile
 ├── freelance-doc.cls
@@ -40,7 +41,7 @@ The project is organized into logical directories to keep the content manageable
 └── posttextual/
 ├── appendix_a.tex
 └── attachment_a.tex
-
+```
 
 * **`main.tex`**: The root file that assembles the entire document. Project metadata (title, author, client) is configured here.
 * **`freelance-doc.cls`**: The custom class file that defines the document's layout and style.
