@@ -1,5 +1,7 @@
 # LaTeX Document Template for Technical Reports and Theses
 
+![Demo of the template](demo.gif)
+
 This project provides a flexible and modern LaTeX template designed for creating professional technical documents and project deliverables. It is built upon the `abntex2` class and customized into a new `freelance-doc` class, offering a clean structure, modern aesthetics, and ease of use.
 
 ## Key Features
