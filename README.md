@@ -56,7 +56,8 @@ The project is organized into logical directories to keep the content manageable
 ## Prerequisites
 
 1.  **LaTeX Distribution**: A full LaTeX installation such as TeX Live, MiKTeX, or MacTeX.
-2.  **Python and Pygments**: The `minted` package requires Python and the Pygments library for syntax highlighting. You can install Pygments using pip:
+2.  **LaTeX Packages**: Make sure all packages used in the template (such as abntex2, minted, graphicx, etc.) are installed. Most modern LaTeX distributions, like TeX Live, can automatically install missing packages during the first compilation.
+3.  **Python and Pygments**: The `minted` package requires Python and the Pygments library for syntax highlighting. You can install Pygments using pip:
     ```sh
     pip install Pygments
     ```
